@@ -13,7 +13,7 @@ namespace ConsoleApp3.Services
 
         public bool MyMethod()
         {
-            Console.WriteLine("MyClass");
+            Console.WriteLine("MyClass MyMethod");
 
             return true;
         }
